@@ -1,10 +1,7 @@
-# SELAAMT DATANG | WELCOME | いらっしゃいませ | أهلا وسهلا
+# SELAMAT DATANG | WELCOME | いらっしゃいませ | أهلا وسهلا
 <h1 align="center">Hi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">, I'm Bagas Widyadhana</h1>
 <h3 align="center">Gadjah Mada Geophysics'21 | Search for</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bagasww&label=Profile%20views&color=0e75b6&style=flat" alt="bagasww" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bagasww" alt="bagasww" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/gaswee_" target="blank"><img src="https://img.shields.io/twitter/follow/gaswee_?logo=twitter&style=for-the-badge" alt="gaswee_" /></a> </p>
 
@@ -38,3 +35,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bagasww&show_icons=true&locale=en" alt="bagasww" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bagasww&" alt="bagasww" /></p>
+  
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bagasww&label=Profile%20views&color=0e75b6&style=flat" alt="bagasww" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bagasww" alt="bagasww" /></a> </p>
