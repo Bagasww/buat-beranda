@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://twitter.com/gaswee_" target="blank"><img src="https://img.shields.io/twitter/follow/gaswee_?logo=twitter&style=for-the-badge" alt="gaswee_" /></a> </p>
 
-- 🔭 I’m currently at [Gadjah Mada University](https://geofisika.ugm.ac.id/)
+🔭 I’m currently at [Gadjah Mada University](https://geofisika.ugm.ac.id/)
 
-- 🌱 I’m currently learning **Geophysics**
+🌱 I’m currently learning **Geophysics**
 
-- 📫 How to reach me **bagaswidyadhana7@gmail.com**
+📫 How to reach me **bagaswidyadhana7@gmail.com**
 
-- ⚡ Fun fact **Wander off**
+⚡ Fun fact **Wander off**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
