@@ -1,6 +1,6 @@
 # SELAMAT DATANG | WELCOME | いらっしゃいませ | أهلا وسهلا
 <h1 align="center">Hi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">, I'm Bagas Widyadhana</h1>
-<h3 align="center">Gadjah Mada Geophysics'21 | Search for</h3>
+<h3 align="center">Gadjah Mada Geophysics'21
 
 
 <p align="left"> <a href="https://twitter.com/gaswee_" target="blank"><img src="https://img.shields.io/twitter/follow/gaswee_?logo=twitter&style=for-the-badge" alt="gaswee_" /></a> </p>
