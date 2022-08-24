@@ -1,6 +1,7 @@
 # SELAMAT DATANG | WELCOME | いらっしゃいませ | أهلا وسهلا
 <h1 align="center">Hi 👋, I'm Bagas Widyadhana</h1>
 <h3 align="center">Gadjah Mada Geophysics'21 </h3>
+<img align="right" alt="coding" width="200" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/69fe9510-764e-4326-a498-705c8e061ebd/dcmgfl6-2de5d69a-f6ad-4ec8-b6dd-2cfe6061228a.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzY5ZmU5NTEwLTc2NGUtNDMyNi1hNDk4LTcwNWM4ZTA2MWViZFwvZGNtZ2ZsNi0yZGU1ZDY5YS1mNmFkLTRlYzgtYjZkZC0yY2ZlNjA2MTIyOGEuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.fJc3QRc01N-VV9_9FTzEcszSYQW5hS4CuffZ76qwJ3s">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bagasww&label=Profile%20views&color=0e75b6&style=flat" alt="bagasww" /> </p>
 
